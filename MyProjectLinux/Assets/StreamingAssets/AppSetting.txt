@@ -1,0 +1,18 @@
+# 外部配置（修改后重启程序生效）
+
+[Video]
+# 车载视频播放参数
+# 网络缓存(毫秒)：越大越流畅但延迟越高，越小延迟越低但越容易卡顿
+NetworkCaching=500
+# RTSP使用TCP传输：true/false
+RtspOverTcp=true
+# 硬件解码：true/false（目标机无驱动支持时保持false）
+HardwareDecoding=false
+# 日志级别：Disable / Debug / Error / Warning
+LogLevel=Error
+
+[ExamMonitor]
+# 考试监控数据 UDP 接收配置
+Enable=true
+Port=45678
+BindIp=192.168.1.6

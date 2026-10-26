@@ -1,0 +1,1 @@
+sudo apt install vlc libvlc5 vlc-plugin-base vlc-plugin-access-extra

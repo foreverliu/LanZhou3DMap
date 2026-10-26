@@ -1,0 +1,5 @@
+# IP=车牌=视频流地址=车辆编号
+192.168.1.6=GHZN001=1=rtsp://admin:admin123@192.168.1.11/h264/ch1/main/av_stream
+192.168.12.110=GHZN002=2=rtsp://admin:admin123@192.168.1.11/h264/ch1/main/av_stream
+192.168.10.3=GHZN003=3=rtsp://admin:admin123@192.168.1.11/h264/ch1/main/av_stream
+192.168.10.7=GHZN004=4=rtsp://admin:admin123@192.168.1.11/h264/ch1/main/av_stream

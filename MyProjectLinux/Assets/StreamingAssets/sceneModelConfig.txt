@@ -1,0 +1,8 @@
+CanKaoPointOne_lon =103.90190810
+CanKaoPointOne_lat =36.03117903
+CanKaoPointOne_x =192.1712
+CanKaoPointOne_y =7.7376
+CanKaoPointTwo_lon =103.90492458
+CanKaoPointTwo_lat =36.03132035
+CanKaoPointTwo_x =-79.703
+CanKaoPointTwo_y =-7.9419
